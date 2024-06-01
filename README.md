@@ -16,6 +16,7 @@ zay@tor:/# tor --version
 ```
 
 ```
+pip3 install toripchanger==1.1.3
 pip3 install requests==2.26.0
 ```
 
